@@ -137,6 +137,3 @@ vercel
 - Totalmente responsivo
 - Acessível (ARIA labels)
 
-## Licença
-
-MIT
